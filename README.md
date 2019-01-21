@@ -1,6 +1,6 @@
 # Sensor-Ultrasonico-Arduino
 
-                                                      Capitulo 5 - Sensor Ultrasonico
+                                             Capitulo 5 - Sensor Ultrasonico
                                                                                                                                  
  En este quinto capitulo aprenderemos a hacer a utilizar el sensor Ultrasonico el cual es un dispositivo capaz de            
  medir distancia por medio de ultrasonidos. Distancia = velocidad * tiempo. La velocidad del sonido la conocemos que es         
